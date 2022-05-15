@@ -1,0 +1,15 @@
+{
+ "name": "node-app",
+ "description": "Basic node app",
+ "version": "1.0.0",
+ "dependencies": {
+  "express": "latest"
+ },
+ "devDependencies": {
+  "mocha": "latest",
+  "supertest": "latest"
+ },
+ "scripts": {
+   "test": "mocha"
+ }
+}
